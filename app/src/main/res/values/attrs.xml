@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="circleTextView">
+        <attr name="ct_backgroundColor" format="color" />
+        <attr name="ct_border_width" format="dimension" />
+        <attr name="ct_border_color" format="color" />
+        <attr name="ct_border_alpha" format="float" />
+        <attr name="ct_type" format="enum">
+            <enum name="shadow_gradual" value="1"/>
+            <enum name="shadow_alpha" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
