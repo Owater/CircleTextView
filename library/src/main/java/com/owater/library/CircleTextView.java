@@ -1,4 +1,4 @@
-package com.owater.circletextview.widget;
+package com.owater.library;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,8 +11,6 @@ import android.graphics.drawable.BitmapDrawable;
 import android.os.Build;
 import android.util.AttributeSet;
 import android.widget.TextView;
-
-import com.owater.circletextview.R;
 
 /**
  * Created by Owater on 2015/7/23.
