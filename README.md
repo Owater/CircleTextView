@@ -1,15 +1,13 @@
 # CircleTextView
 CircleTextView --- Android draw a CircleTextView
 
----
-
 # Screenshots
 ![Main screen](/screenshots/main.png)
 
----
+
 
 ```xml
-    <com.owater.circletextview.widget.CircleTextView
+    <com.owater.library.CircleTextView
         android:layout_width="100dp"
         android:layout_height="100dp"
         app:ct_backgroundColor="#0099CC"
@@ -18,7 +16,7 @@ CircleTextView --- Android draw a CircleTextView
         android:textSize="16sp"
         android:text="22:30"/>
 
-    <com.owater.circletextview.widget.CircleTextView
+    <com.owater.library.CircleTextView
         android:layout_width="100dp"
         android:layout_height="100dp"
         app:ct_backgroundColor="#0099CC"
@@ -32,7 +30,7 @@ CircleTextView --- Android draw a CircleTextView
         android:layout_marginTop="20dp"
         android:text="22:30"/>
 
-    <com.owater.circletextview.widget.CircleTextView
+    <com.owater.library.CircleTextView
         android:layout_width="100dp"
         android:layout_height="100dp"
         app:ct_backgroundColor="#0099CC"
@@ -45,6 +43,8 @@ CircleTextView --- Android draw a CircleTextView
         android:layout_marginTop="20dp"
         android:text="22:30"/>
 ```
+
+
 
 # License
 ```
