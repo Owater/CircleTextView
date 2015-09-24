@@ -5,6 +5,19 @@ CircleTextView --- Android draw a CircleTextView
 ![Main screen](/screenshots/main.png)
 
 
+#Including in Your Project
+Last version is 1.0.0
+
+Just add the following statement in your build.gradle
+
+```xml
+compile 'com.owater.library:library:0.8.1'
+```
+
+You may also add the library as an Android Library to your project. All the library files live in library.
+
+#Usage
+To add the PickerUI to your layout add this to your xml
 
 ```xml
     <com.owater.library.CircleTextView
@@ -62,3 +75,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+---
