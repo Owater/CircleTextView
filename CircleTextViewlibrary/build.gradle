@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-version = "0.8.1"
+version = "0.8.3"
 
 android {
     compileSdkVersion 22
@@ -93,7 +93,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"
-        name = "CircleTextView"
+        name = "circletextview"
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
