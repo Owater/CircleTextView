@@ -11,7 +11,7 @@ Last version is 1.0.0
 Just add the following statement in your build.gradle
 
 ```xml
-compile 'com.owater.library:library:0.8.1'
+compile 'com.owater.library:CircleTextViewlibrary:0.8.3'
 ```
 
 You may also add the library as an Android Library to your project. All the library files live in library.
