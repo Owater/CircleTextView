@@ -124,6 +124,13 @@ public class CircleTextView extends TextView {
 		return output;
 	}
 
+	public void setCircleFillColor(int backgroundColor) {
+		this.backgroundColor = backgroundColor;
+	}
+
+	public void setBorderColor(int borderColor) {
+		this.borderColor = borderColor;
+	}
 }
 
 	
